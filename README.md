@@ -3,11 +3,13 @@ This repository contains the code supporting the master's thesis "Narratives of 
 
 ## Appendix A: Python code for data collection, preprocessing, analysis and visualizations
 - Data collection – video transcripts
-  - Notebook name - pending
+  - *Data_collection_transcripts_1.ipynb*
+  - *Data_collection_transcripts_2.ipynb*
+  - *Data_collection_transcripts_3.ipynb*
 - Data collection – comments
-  - Data_collection_comments.ipynb
+  - *Data_collection_comments.ipynb*
 - Transcripts preprocessing, topic modeling and embedding visualizations
-  - Transcripts_preprocessing_analysis.ipynb
+  - *Transcripts_preprocessing_analysis.ipynb*
 - Comments preprocessing and sentiment analysis + Quantitative analysis visualizations
-  - Comments_quanti_analysis_1.ipynb
-  - Comments_quanti_analysis_2.ipynb
+  - *Comments_quanti_analysis_1.ipynb*
+  - *Comments_quanti_analysis_2.ipynb*
